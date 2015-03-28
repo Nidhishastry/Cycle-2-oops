@@ -1,8 +1,8 @@
 //
 //  main.cpp
-//  cpp-2-computer
+//  cpp-2-19
 //
-//  Created by Kumar Divya  Rajat on 27/03/15.
+//  Created by Kumar Divya  Rajat on 28/03/15.
 //  Copyright (c) 2015 Kumar Divya  Rajat. All rights reserved.
 //
 
@@ -10,17 +10,10 @@
 
 using namespace std;
 
-class computer{
-protected:
-    void set_speed()
-    {
-        
-    }
-    
-    void set_mainmemory()
-    {
-        
-    }
+class student
+{
+    char *usn;
+    int age;
 };
 
 int main(int argc, const char * argv[]) {
